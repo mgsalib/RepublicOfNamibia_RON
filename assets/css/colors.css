@@ -1,0 +1,213 @@
+/* IDSC variables  ============================== */
+:root {
+    --color_1: rgb(0, 53, 128);
+    --color_2: rgb(210, 16, 52);
+    --color_3: rgb(0, 148, 67);
+    --color_4: rgb(255, 206, 0);
+    --gray-5: rgb(242, 242, 242);
+    --gray-10: rgb(230, 230, 230);
+    --gray-20: rgb(204, 204, 204);
+    --gray-30: rgb(179, 179, 179);
+    --gray-40: rgb(153, 153, 153);
+    --gray-50: rgb(128, 128, 128);
+    --gray-60: rgb(102, 102, 102);
+    --gray-70: rgb(77, 77, 77);
+    --gray-80: rgb(51, 51, 51);
+    --gray-90: rgb(26, 26, 26);
+    --black: rgb(0, 0, 0);
+}
+
+/* background  ============================== */
+.bg_color_1 {
+    background-color: rgb(0, 53, 128);
+}
+
+.bg_color_2 {
+    background-color: rgb(210, 16, 52);
+}
+
+.bg_color_3 {
+    background-color: rgb(0, 148, 67);
+}
+
+.bg_color_4 {
+    background-color: rgb(255, 206, 0);
+}
+
+.bg_white {
+    background-color: rgb(255, 255, 255) !important;
+}
+
+.bg_gray-5 {
+    background-color: rgb(242, 242, 242) !important;
+}
+
+.bg_gray-10 {
+    background-color: rgb(230, 230, 230) !important;
+}
+
+.bg_gray-20 {
+    background-color: rgb(204, 204, 204) !important;
+}
+
+.bg_gray-30 {
+    background-color: rgb(179, 179, 179) !important;
+}
+
+.bg_gray-40 {
+    background-color: rgb(153, 153, 153) !important;
+}
+
+.bg_gray-50 {
+    background-color: rgb(128, 128, 128) !important;
+}
+
+.bg_gray-60 {
+    background-color: rgb(102, 102, 102) !important;
+}
+
+.bg_gray-70 {
+    background-color: rgb(77, 77, 77) !important;
+}
+
+.bg_gray-80 {
+    background-color: rgb(51, 51, 51) !important;
+}
+
+.bg_gray-90 {
+    background-color: rgb(26, 26, 26) !important;
+}
+
+.bg_black {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+/* text color  ============================== */
+.text-color_1 {
+    color: rgb(0, 53, 128);
+}
+
+.text-color_2 {
+    color: rgb(210, 16, 52);
+}
+
+.text-color_3 {
+    color: rgb(0, 148, 67);
+}
+
+.text-color_4 {
+    color: rgb(255, 206, 0);
+}
+
+.txt_white {
+    color: rgb(255, 255, 255) !important;
+}
+
+.txt_gray-5 {
+    color: rgb(242, 242, 242) !important;
+}
+
+.txt_gray-10 {
+    color: rgb(230, 230, 230) !important;
+}
+
+.txt_gray-20 {
+    color: rgb(204, 204, 204) !important;
+}
+
+.txt_gray-30 {
+    color: rgb(179, 179, 179) !important;
+}
+
+.txt_gray-40 {
+    color: rgb(153, 153, 153) !important;
+}
+
+.txt_gray-50 {
+    color: rgb(128, 128, 128) !important;
+}
+
+.txt_gray-60 {
+    color: rgb(102, 102, 102) !important;
+}
+
+.txt_gray-70 {
+    color: rgb(77, 77, 77) !important;
+}
+
+.txt_gray-80 {
+    color: rgb(51, 51, 51) !important;
+}
+
+.txt_gray-90 {
+    color: rgb(26, 26, 26) !important;
+}
+
+.txt_black {
+    color: rgb(0, 0, 0) !important;
+}
+
+/* border color  ============================== */
+.border_color_1 {
+    border-color: rgb(0, 53, 128);
+}
+
+.border_color_2 {
+    border-color: rgb(210, 16, 52);
+}
+
+.border_color_3 {
+    border-color: rgb(0, 148, 67);
+}
+
+.border_color_4 {
+    border-color: rgb(255, 206, 0);
+}
+
+.border_white {
+    border-color: rgb(255, 255, 255) !important;
+}
+
+.border_gray-5 {
+    border-color: rgb(242, 242, 242) !important;
+}
+
+.border_gray-10 {
+    border-color: rgb(230, 230, 230) !important;
+}
+
+.border_gray-20 {
+    border-color: rgb(204, 204, 204) !important;
+}
+
+.border_gray-30 {
+    border-color: rgb(179, 179, 179) !important;
+}
+
+.border_gray-40 {
+    border-color: rgb(153, 153, 153) !important;
+}
+
+.border_gray-50 {
+    border-color: rgb(128, 128, 128) !important;
+}
+
+.border_gray-60 {
+    border-color: rgb(102, 102, 102) !important;
+}
+
+.border_gray-70 {
+    border-color: rgb(77, 77, 77) !important;
+}
+
+.border_gray-80 {
+    border-color: rgb(51, 51, 51) !important;
+}
+
+.border_gray-90 {
+    border-color: rgb(26, 26, 26) !important;
+}
+
+.border_black {
+    border-color: rgb(0, 0, 0) !important;
+}

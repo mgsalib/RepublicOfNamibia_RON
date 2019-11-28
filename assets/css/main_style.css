@@ -1,0 +1,38 @@
+/* import css ============================== */
+/* libaraies */
+@import url("bootstrap.min.css");
+@import url("animate.css");
+@import url("all.css");
+@import url("font.css");
+@import url("colors.css");
+
+/* modules */
+@import url("login_form.css");
+
+/* HTML tags ============================== */
+html {
+    min-height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+body {
+    font-family: HelveticaNeue;
+    font-size: 14px;
+    line-height: 22px;
+    background-image: url(../images/bg-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* breakpoint ============================== */
+
+/* medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {}
+
+/* large devices (desktops, 992px and up) */
+@media (min-width: 992px) {}
+
+/* extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {}
