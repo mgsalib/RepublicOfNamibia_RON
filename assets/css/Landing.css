@@ -1,0 +1,51 @@
+.landing {
+    background-image: url(../images/logo_wattermark.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+
+.landing_bar {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 0px -15px;
+    padding: 15px;
+}
+
+.landing_bar ul,
+.landing .brand_logo ul,
+.user_tools>ul {
+    list-style: none;
+}
+
+.landing .brand_logo ul li:nth-child(1),
+.landing .brand_logo ul li:nth-child(3) {
+    max-width: 77px;
+}
+
+.landing .brand_logo ul li:nth-child(2)>p {
+    font-size: 17px;
+}
+
+.landing .dropdown-item {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.landing .dropdown-item:hover {
+    background-color: rgb(255, 206, 0);
+    color: rgb(0, 53, 128) !important;
+}
+
+.landing .dropdown-divider {
+    width: calc(100% - 24px);
+    float: right;
+    margin: 2px 0px;
+}
+
+.landing_bar ul li {
+    min-width: 159px;
+}

@@ -8,6 +8,7 @@
 
 /* modules */
 @import url("login_form.css");
+@import url("Landing.css");
 
 /* HTML tags ============================== */
 html {
@@ -24,6 +25,19 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.login_form,
+.landing {
+    height: 100vh;
+}
+
+.main_header {
+    background-color: rgba(0, 53, 128, 0.8);
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
 }
 
 /* breakpoint ============================== */

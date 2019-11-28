@@ -4,6 +4,7 @@
     --color_2: rgb(210, 16, 52);
     --color_3: rgb(0, 148, 67);
     --color_4: rgb(255, 206, 0);
+    --color-5: rgb(43, 86, 146);
     --gray-5: rgb(242, 242, 242);
     --gray-10: rgb(230, 230, 230);
     --gray-20: rgb(204, 204, 204);
@@ -32,6 +33,10 @@
 
 .bg_color_4 {
     background-color: rgb(255, 206, 0);
+}
+
+.bg_color_5 {
+    background-color: rgb(43, 86, 146);
 }
 
 .bg_white {
@@ -99,6 +104,10 @@
     color: rgb(255, 206, 0);
 }
 
+.text_color_5 {
+    color: rgb(43, 86, 146);
+}
+
 .txt_white {
     color: rgb(255, 255, 255) !important;
 }
@@ -162,6 +171,10 @@
 
 .border_color_4 {
     border-color: rgb(255, 206, 0);
+}
+
+.border_color_5 {
+    border-color: rgb(43, 86, 146);
 }
 
 .border_white {
